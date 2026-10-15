@@ -10,7 +10,7 @@ Syarat tugas: *similarity* maksimal 20%. Pemakaian AI wajib diungkap (lihat `../
 ## Hasil pemeriksaan (diisi mahasiswa)
 | Alat pemeriksa | Tanggal | Berkas yang diperiksa | Similarity | Laporan |
 |---|---|---|---|---|
-| [ISI] | [ISI] | `Tugas1_MetPen_NIM_Nama.pdf` | [ISI]% | [ISI: tautan atau berkas] |
+| Turnitin (kelas Kulino "Class 5") | 15-10-2026, 23.38 WIB | `Tugas1_MetPen_P31202502702_BelvaFahroziChiangmaitri.pdf` (14 halaman, tanpa lampiran; daftar pustaka disaring oleh Turnitin) | **2%** (internet 2%, publikasi 1%, karya mahasiswa 0%) | [`Laporan_Turnitin.pdf`](Laporan_Turnitin.pdf) |
 
 ## Pemeriksaan klaim kebaruan oleh mahasiswa (diisi mahasiswa)
 | Basis data | Kata kunci | Tanggal | Hasil |
